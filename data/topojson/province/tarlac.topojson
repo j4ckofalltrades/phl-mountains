@@ -1,0 +1,7 @@
+{
+  "type": "Topology",
+  "objects": {
+    "mountains": { "type": "GeometryCollection", "geometries": [] }
+  },
+  "arcs": []
+}
